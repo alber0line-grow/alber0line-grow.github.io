@@ -1,2 +1,2 @@
-# alber0line-grow.github.io
-alber0line-grow.github.io here you can find contents of htb for free. thanks  to hex 
+#### Knowledge is meant to be free and accessible to all. HTB content is here because of Hex and we thank him for that.
+
